@@ -159,6 +159,7 @@
 		D83150591AA7A8A000B7050C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Max McChesney";
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				D83150821AA7A8A000B7050C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D83150831AA7A8A000B7050C /* Build configuration list for PBXNativeTarget "CustomButtonsAndViewsTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				D83150851AA7A8A000B7050C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
